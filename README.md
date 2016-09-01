@@ -1,4 +1,14 @@
-#Example
+# Small library to create cli tables with simple to use API
+## Overview
+**Work in progress...**
+
+Desired to be an extension for my cli framework.
+
+Key differences from other cli table modules:
+- user-friendly
+- form/template like usage
+
+## Partial example
 ```python
 table = Table(width=50, height=20, padding=0, title='title')
 
